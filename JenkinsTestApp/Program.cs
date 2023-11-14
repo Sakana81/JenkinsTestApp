@@ -17,6 +17,7 @@ namespace JenkinsTestApp
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            var a = 1;
         }
     }
 }
