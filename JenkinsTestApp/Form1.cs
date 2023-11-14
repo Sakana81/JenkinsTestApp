@@ -15,7 +15,7 @@ namespace JenkinsTestApp
         public Form1()
         {
             InitializeComponent();
-            var a = 0;
+            var a = 1;
         }
     }
 }
